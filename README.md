@@ -164,6 +164,3 @@ Open it with Jupyter Lab or VS Code.
 
 ---
 
-## License
-
-MIT
